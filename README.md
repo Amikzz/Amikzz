@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name is Amika Subasinghe</h1>
-<h3 align="center">A passionate frontend and backend developer who is more interested in backend from Sri Lanka.</h3>
+<h3 align="center">A passionate frontend and backend developer from Sri Lanka.</h3>
 
 <p align="left"> <a href="https://twitter.com/amikzz2005" target="blank"><img src="https://img.shields.io/twitter/follow/amikzz2005?logo=twitter&style=for-the-badge" alt="amikzz2005" /></a> </p>
 

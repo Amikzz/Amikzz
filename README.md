@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amika and I'm a full stack developer from Sri Lanka.</p>
+<p align="left">My name is Amika and I'm a full-stack developer from Sri Lanka.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on RideEasy<br><br>🌱 I’m currently learning Laravel, Node.js, Web3, Flutter<br><br>💬 Ask me about C#, Java, PHP, HTML, CSS<br><br>📫 How to reach me amixx2005@gmail.com<br><br>⚡ Fun fact I can't sleep without getting my cord to work</p>
+<p align="left">🔭 I’m currently working on at Rangiri Holdings<br><br>🌱 I’m currently learning Laravel, Node.js, Web3, Flutter<br><br>💬 Ask me about C#, Java, PHP, HTML, CSS<br><br>📫 How to reach me amixx2005@gmail.com<br><br>⚡ Fun fact I can't sleep without getting my cord to work</p>
 
 ###
 

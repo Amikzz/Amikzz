@@ -30,7 +30,7 @@
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfitrjP8RaSyij0rDzOFvzl92--bwK-uGsw&s" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -73,6 +73,5 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="mailto:amikasubasinghe@gmail.com"><img src="https://img.icons8.com/?size=48&id=QzN4pGkQYB8t&format=png" height="40" /></a>
-  <a href="https://www.linkedin.com/in/amika-subasinghe/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a>
+  <a href="www.linkedin.com/in/amika-subasinghe-a52b6a1a9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a>
 </p>

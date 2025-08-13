@@ -6,14 +6,7 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently working at **Rangiri Holdings**  
-- 🌱 Specializing in **Laravel, Node.js, and SQL**  
-- 💬 Ask me about **C#, Java, PHP, HTML, CSS, and more**  
-- 📫 Reach me at: **amikasubasinghe@gmail.com**  
-- ⚡ Fun fact: I can’t sleep until I get my code to work 😅  
-
+## 🚀
 ---
 
 ## 🛠 Tech Stack & Tools

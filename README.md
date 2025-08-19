@@ -138,17 +138,17 @@
 
   <!-- Blogger -->
   <a href="https://wandermind.blogspot.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111504.png" height="40" alt="Blogger" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" height="40" alt="Blogger" />
   </a>
-
+  
   <!-- GitHub -->
   <a href="https://github.com/Amikzz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" height="40" alt="GitHub" />
   </a>
-
+  
   <!-- Twitter / X -->
   <a href="https://x.com/Amika2005" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" height="40" alt="Twitter" />
   </a>
 
   <!-- Email -->

@@ -126,5 +126,33 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/amika-subasinghe-a52b6a1a9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/amika-subasinghe-a52b6a1a9" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/your-user-id" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="Stack Overflow" />
+  </a>
+
+  <!-- Blogger -->
+  <a href="https://wandermind.blogspot.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111504.png" height="40" alt="Blogger" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Amikzz" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://x.com/Amika2005" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:amikasubasinghe@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Email" />
+  </a>
 </p>

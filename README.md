@@ -135,16 +135,6 @@
   <a href="https://stackoverflow.com/users/your-user-id" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="Stack Overflow" />
   </a>
-
-  <!-- Blogger -->
-  <a href="https://wandermind.blogspot.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" height="40" alt="Blogger" />
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/Amikzz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" height="40" alt="GitHub" />
-  </a>
   
   <!-- Twitter / X -->
   <a href="https://x.com/Amika2005" target="_blank">

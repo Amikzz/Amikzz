@@ -74,7 +74,7 @@
 
 ### **Cloud & DevOps**
 <p>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://unqork.com/wp-content/uploads/2021/05/Amazon_Web_Services-Logo.wine_.png)" height="40" alt="AWS" />
+  <img src="https://i.scdn.co/image/ab6765630000ba8a49f81331af04ec3614a5a741" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />

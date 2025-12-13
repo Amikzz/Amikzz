@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **Rangiri Holdings**  
+- 🔭 Associate Software Engineer  
 - 🌱 Specializing in **Laravel, Node.js, and SQL**  
 - 💬 Ask me about **C#, Java, PHP, HTML, CSS, and more**  
 - 📫 Reach me at: **amikasubasinghe@gmail.com**  
